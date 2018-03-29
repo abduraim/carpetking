@@ -1,0 +1,357 @@
+.red {
+    border: 1px solid red;
+}
+.blue {
+    border: 1px solid blue;
+}
+.green {
+    border: 1px solid green;
+}
+.yellow {
+    border: 1px solid yellow;
+}
+.pink {
+    border: 1px solid pink;
+}
+.grey {
+    border: 1px solid grey;
+}
+.cent {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.div_benefits_up li {
+    margin-top: 0.7em;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.add_margin_top {
+    margin-top: 1em;
+}
+
+.add_margin_bottom {
+    margin-bottom: 1em;
+}
+
+.font_logo {
+    font-size: xx-large;
+}
+
+.font_size_large {
+    font-size: large;
+}
+
+.font_redstar {
+    font-weight: bold;
+    color: red;
+}
+
+#div_delivery li {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.caption_title_all_n1 {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    font-size: x-large;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.caption_title_all_n2 {
+
+    margin-bottom: 1.5em;
+    font-size: larger;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.caption_title_all_n2_left {
+    margin-bottom: 0.5em;
+    font-size: larger;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.caption_social {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.caption_div_about_benefits {
+    margin-bottom: 0.5em;
+    font-size: larger;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.caption_div_about_benefits_row {
+    margin-top: 1em;
+    padding: 0 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000000;
+}
+
+.div_carousel {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.div_login {
+    text-decoration: none;
+    text-align: right;
+}
+
+.text_div_about_benefits {
+    margin-top: 0.5em;
+}
+
+.div_header_logo {
+    padding-bottom: 2em;
+}
+
+.div_footer_social {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+}
+
+.div_footer_menu {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.div_footer_contacts {
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+}
+
+.div_benefits_up {
+    font-size: 1.2em;
+}
+
+.div_benefits {
+    padding: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.div_about_benefit {
+    padding: 1em;
+    margin: 5px -12.5px;
+}
+
+.div_about_row {
+    background-color: #e3e3e3;
+    margin-top: 1em;
+}
+
+.div_contacts {
+    margin-bottom: 1em;
+    border: 1px solid #2aabd2;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 1em;
+}
+
+.div_catalog_list_logo_img {
+    border: 1px solid #cccccc;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.div_catalog_list_logo_img:hover {
+    border: 2px solid green;
+}
+
+.div_catalog_input_search {
+    margin-bottom: 1.5em;
+}
+
+.div_models_listblock {
+    padding-top: 0.5em;
+    margin-bottom: 2em;
+}
+
+.div_models_imgblock {
+    margin-bottom: 1em;
+    background-color: #eeeeee;
+    padding: 0.3em;
+}
+
+.div_models_imgblock:hover {
+    background-color: #cccccc;
+}
+
+.div_models_imgblock_img {
+    border-radius: 0.2em;
+}
+
+.div_models_imgblock_img_caption {
+    padding-top: 0.2em;
+    height: 3em;
+}
+
+.div_product_block {
+    background-color: #eeeeee;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.div_product_block:hover {
+    background-color: #cccccc;
+}
+
+.div_item_materials_block {
+    margin-bottom: 1em;
+}
+
+.div_item_content-text {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.div_item_img_main {
+    border-radius: 0.5em;
+    margin-bottom: 0.5em;
+    width: 100%;
+}
+
+.div_item_img_main_zoom {
+    position: absolute;
+    left: 32%;
+    top: 30%;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    padding: 0.5em 1em;
+    border-radius: 05em;
+}
+
+.div_item_img_min {
+    border-radius: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.div_item_img_min_block {
+    padding-top: 0.5em;
+}
+
+.div_item_img_min_block:hover {
+    background-color: #cccccc;
+}
+
+.div_item_selects_block {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.div_item_calc_block {
+    border: 1px solid #cccccc;
+    border-radius: 0.5em;
+}
+
+.div_item_calc_cost {
+    font-size: large;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.div_item_calc_pts {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.div_item_calc_benefits {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.div_basket_block_order_xs {
+    border: 1px solid #cccccc;
+    border-radius: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.div_order_form {
+    border: 1px solid #cccccc;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.div_login_input_block {
+    margin-bottom: 1em;
+}
+
+.div_comment_block {
+    border: 2px solid #3c3c3c;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.div_comment_name {
+    font-weight: bold;
+    text-align: right;
+}
+
+.div_comment_date {
+    font-style: italic;
+    text-align: right;
+}
+
+.div_settings_marks_block {
+    padding: 1em;
+    background-color: #cccccc;
+}
+
+.img_comment_photo {
+    float: left;
+    margin-right: 1em;
+}
+
+.container_benefits {
+    background-color: #9acfea;
+    padding-bottom: 3em;
+    padding-top: 2em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.container_footer {
+    background-color: black;
+    margin-bottom: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}

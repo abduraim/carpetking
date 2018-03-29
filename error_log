@@ -1,0 +1,26 @@
+[Sat Apr 23 06:42:57 2016] [error] [client 93.158.152.32] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 06:42:57 2016] [error] [client 141.8.132.40] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 09:57:03 2016] [error] [client 66.102.9.2] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/favicon.ico
+[Sat Apr 23 09:57:03 2016] [error] [client 66.102.9.2] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/favicon.ico
+[Sat Apr 23 09:57:04 2016] [error] [client 66.102.9.24] PHP Warning:  require_once(config/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 2
+[Sat Apr 23 09:57:04 2016] [error] [client 66.102.9.24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/config.php' (include_path='.:/opt/php53/share/pear:/usr/share/pear') in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 2
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] script '/home/c/cg73152/mylifepro.ru/public_html/wp-login.php' not found or unable to stat
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/administrator
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/bitrix
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] script '/home/c/cg73152/mylifepro.ru/public_html/admin.php' not found or unable to stat
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/user
+[Sat Apr 23 10:48:03 2016] [error] [client 185.93.187.31] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/admin
+[Sat Apr 23 11:09:23 2016] [error] [client 46.4.120.3] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 11:09:33 2016] [error] [client 46.4.120.3] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 11:55:49 2016] [error] [client 69.30.221.250] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 11:56:19 2016] [error] [client 69.30.221.250] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 13:33:10 2016] [error] [client 66.249.78.57] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/robots.txt
+[Sat Apr 23 13:44:23 2016] [error] [client 66.102.9.24] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/favicon.ico, referer: http://mylifepro.ru/?page=catalog&mark=bmw
+[Sat Apr 23 13:46:18 2016] [error] [client 94.19.8.244] File does not exist: /home/c/cg73152/mylifepro.ru/public_html/favicon.ico, referer: http://mylifepro.ru/
+[Sat Apr 23 13:48:00 2016] [error] [client 66.102.9.13] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=alfa_romeo
+[Sat Apr 23 13:48:10 2016] [error] [client 66.102.9.2] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=alfa_romeo
+[Sat Apr 23 13:48:19 2016] [error] [client 94.19.8.244] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=acura
+[Sat Apr 23 13:48:23 2016] [error] [client 94.19.8.244] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=acura
+[Sat Apr 23 13:48:51 2016] [error] [client 94.19.8.244] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=acura
+[Sat Apr 23 13:49:16 2016] [error] [client 94.19.8.244] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=acura
+[Sat Apr 23 13:49:20 2016] [error] [client 94.19.8.244] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/c/cg73152/mylifepro.ru/public_html/config/db.php on line 29, referer: http://mylifepro.ru/?page=catalog&mark=acura
